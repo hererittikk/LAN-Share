@@ -28,8 +28,8 @@ python server.py --folder "<Folder-location>" --port <port-number> --user <user-
  ---------------------------------------------------------LAN SHARE IS STARTING---------------------------------------------------------
 ---------------------------------------------------------A PROJECT BY RITIK-TRADEZ---------------------------------------------------------
 === LANShare ===
-Shared folder: E:\FTProtocol\Shared
-Access URL: http://192.168.1.14:2121/  (login required)
+Shared folder: E:\LAN-Share\Shared
+Access URL: http://192.168.1.1:2121/  (login required)
 
 3. Open the link on any device connected to the same Wi-Fi.
 4. Enter the token (if enabled).
